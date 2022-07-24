@@ -19,4 +19,10 @@ authors="Admin, MCreator"
 
 
 
+[[dependencies.soul_magic]]
+    modId="allmods"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 

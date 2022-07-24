@@ -28,6 +28,7 @@ import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.soul_magic.init.SoulMagicModItems;
 import net.mcreator.soul_magic.init.SoulMagicModFluids;
+import net.mcreator.soul_magic.init.SoulMagicModFeatures;
 import net.mcreator.soul_magic.init.SoulMagicModBlocks;
 
 import java.util.function.Supplier;
@@ -49,6 +50,7 @@ public class SoulMagicMod {
 		SoulMagicModBlocks.REGISTRY.register(bus);
 		SoulMagicModItems.REGISTRY.register(bus);
 
+		SoulMagicModFeatures.REGISTRY.register(bus);
 		SoulMagicModFluids.REGISTRY.register(bus);
 
 	}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "soul_magic:soul"
+    },
+    "1": {
+      "item": "soul_magic:soul"
+    },
+    "2": {
+      "item": "soul_magic:soul"
+    },
+    "3": {
+      "item": "soul_magic:soul"
+    },
+    "4": {
+      "item": "soul_magic:soul"
+    },
+    "5": {
+      "item": "soul_magic:soul"
+    },
+    "6": {
+      "item": "soul_magic:soul"
+    },
+    "7": {
+      "item": "soul_magic:soul"
+    },
+    "8": {
+      "item": "soul_magic:soul"
+    }
+  },
+  "result": {
+    "item": "soul_magic:soul_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "soul_magic:soul_block"
+    }
+  ],
+  "result": {
+    "item": "soul_magic:soul",
+    "count": 9
+  }
+}
