@@ -3,14 +3,14 @@ loaderVersion="[40,)"
 license="Academic Free License v3.0"
 
 [[mods]]
-modId="soul_magic"
-version="1.0.0"
-displayName="Soul Magic"
+modId="souls_and_energy"
+version="0.1.0"
+displayName="Souls and Energy"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
 authors="Admin, MCreator"
 
-[[dependencies.soul_magic]]
+[[dependencies.souls_and_energy]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.18.2]"
@@ -19,7 +19,7 @@ authors="Admin, MCreator"
 
 
 
-[[dependencies.soul_magic]]
+[[dependencies.souls_and_energy]]
     modId="allmods"
     mandatory=false
     versionRange="[0,)"

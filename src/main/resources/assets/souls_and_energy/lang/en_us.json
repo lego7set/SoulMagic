@@ -1,0 +1,16 @@
+{
+  "block.soul_magic.liquid_mana": "Liquid Mana",
+  "item.soul_magic.soul": "Soulstone",
+  "block.soul_magic.soul_block": "Block of Soul",
+  "fluid.soul_magic.liquid_mana": "Liquid Mana",
+  "item.souls_and_energy.soul": "Soulstone",
+  "block.souls_and_energy.soul_ore": "Soul Ore",
+  "block.soul_magic.soul_ore": "Soul Ore",
+  "item.soul_magic.liquid_mana_bucket": "Bucket of Liquid Mana",
+  "item.souls_and_energy.liquid_mana_bucket": "Bucket of Liquid Mana",
+  "item.soul_magic.base_staff": "Base Staff",
+  "block.souls_and_energy.soul_block": "Block of Soul",
+  "item.souls_and_energy.base_staff": "Base Staff",
+  "fluid.souls_and_energy.liquid_mana": "Liquid Mana",
+  "block.souls_and_energy.liquid_mana": "Liquid Mana"
+}

@@ -1,0 +1,209 @@
+{
+  "mod_elements": [
+    {
+      "name": "LiquidMana",
+      "type": "fluid",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liquid_mana",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "DirtBlocks",
+      "type": "tag",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirt_blocks"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "FenceBlocks",
+      "type": "tag",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fence_blocks"
+    },
+    {
+      "name": "WoodenFenceBlocks",
+      "type": "tag",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_fence_blocks"
+    },
+    {
+      "name": "WallBlocks",
+      "type": "tag",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wall_blocks"
+    },
+    {
+      "name": "SmallFlowerBlocks",
+      "type": "tag",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_flower_blocks"
+    },
+    {
+      "name": "TallFlowerBlocks",
+      "type": "tag",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tall_flower_blocks"
+    },
+    {
+      "name": "ValidSpawnBlocks",
+      "type": "tag",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valid_spawn_blocks"
+    },
+    {
+      "name": "DragonImmuneBlocks",
+      "type": "tag",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_immune_blocks"
+    },
+    {
+      "name": "WitherImmuneBlocks",
+      "type": "tag",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wither_immune_blocks"
+    },
+    {
+      "name": "BaseStaff",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "base_staff"
+    },
+    {
+      "name": "Soul",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul"
+    },
+    {
+      "name": "SoulOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_ore"
+    },
+    {
+      "name": "SoulBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_block"
+    },
+    {
+      "name": "SoulOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_ore_block_recipe"
+    },
+    {
+      "name": "SoulBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_block_ore_recipe"
+    },
+    {
+      "name": "SoulOreSmelting",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_ore_smelting"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "Mana",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    },
+    {
+      "name": "MaxMana",
+      "type": "number",
+      "scope": "map",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.soul_magic.liquid_mana": "Liquid Mana",
+      "item.soul_magic.soul": "Soulstone",
+      "block.soul_magic.soul_block": "Block of Soul",
+      "fluid.soul_magic.liquid_mana": "Liquid Mana",
+      "item.souls_and_energy.soul": "Soulstone",
+      "block.souls_and_energy.soul_ore": "Soul Ore",
+      "block.soul_magic.soul_ore": "Soul Ore",
+      "item.soul_magic.liquid_mana_bucket": "Bucket of Liquid Mana",
+      "item.souls_and_energy.liquid_mana_bucket": "Bucket of Liquid Mana",
+      "item.soul_magic.base_staff": "Base Staff",
+      "block.souls_and_energy.soul_block": "Block of Soul",
+      "item.souls_and_energy.base_staff": "Base Staff",
+      "fluid.souls_and_energy.liquid_mana": "Liquid Mana",
+      "block.souls_and_energy.liquid_mana": "Liquid Mana"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "souls_and_energy",
+    "modName": "Souls and Energy",
+    "version": "0.1.0",
+    "author": "Admin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "allmods"
+    ],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.souls_and_energy",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "souls_and_energy:block/soul_block"
+    }
+  }
+}

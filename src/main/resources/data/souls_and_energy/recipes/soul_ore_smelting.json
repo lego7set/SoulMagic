@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "souls_and_energy:soul_ore"
+  },
+  "result": "souls_and_energy:soul"
+}

@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "soul_magic:blocks/soul_ore_block",
-    "particle": "soul_magic:blocks/soul_ore_block"
-  }
-}

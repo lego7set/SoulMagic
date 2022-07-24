@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "soul_magic:soul_ore",
-    "soul_magic:soul_block"
+    "souls_and_energy:soul_ore",
+    "souls_and_energy:soul_block"
   ]
 }

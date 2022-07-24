@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "souls_and_energy:soul"
+    },
+    "1": {
+      "item": "souls_and_energy:soul"
+    },
+    "2": {
+      "item": "souls_and_energy:soul"
+    },
+    "3": {
+      "item": "souls_and_energy:soul"
+    },
+    "4": {
+      "item": "souls_and_energy:soul"
+    },
+    "5": {
+      "item": "souls_and_energy:soul"
+    },
+    "6": {
+      "item": "souls_and_energy:soul"
+    },
+    "7": {
+      "item": "souls_and_energy:soul"
+    },
+    "8": {
+      "item": "souls_and_energy:soul"
+    }
+  },
+  "result": {
+    "item": "souls_and_energy:soul_block",
+    "count": 1
+  }
+}
